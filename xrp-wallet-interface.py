@@ -381,3 +381,11 @@ const XRPWalletInterface = () => {
 };
 
 export default XRPWalletInterface;
+```python
+import gradio as gr
+
+def display_wallet():
+    return "XRP Quantum Vault Balance: $151,929,156.66"
+
+iface = gr.Interface(fn=display_wallet, inputs=[], outputs="text", live=True)
+iface.launch()
