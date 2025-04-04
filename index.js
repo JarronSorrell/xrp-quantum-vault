@@ -1,11 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import XRPWalletInterface from './XRPWalletInterface';
+import React from "react"
+import ReactDOM from "react-dom/client"
+import XRPWalletInterface from "./XRPWalletInterface.jsx"
+import "./index.css"
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <XRPWalletInterface />
   </React.StrictMode>
-);
+)
