@@ -1,13 +1,13 @@
+## 🚀 XRP Quantum Vault  
+### Institutional-Grade AI Wallet Dashboard  
 
-# 🚀 XRP Quantum Vault  
-**Institutional-Grade AI Wallet Dashboard**  
-[![Live Site](https://img.shields.io/badge/Live-Demo-00cc99?style=for-the-badge&logo=netlify)](https://serene-centaur-50221e.netlify.app)
-[![Vercel Badge](https://vercelbadge.vercel.app/api/JarronSorrell/XRP-Quantum-Vault)](https://serene-centaur-50221e.netlify.app)
+[![LIVE](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://serene-centaur-50221e.netlify.app)  
+[![Vercel](https://img.shields.io/badge/vercel-failed-red?style=flat-square)](https://vercel.com)
 
-![Header](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif)
+![XRP Quantum Vault UI Preview](https://media.giphy.com/media/Fxkx2ZxRNGolKZ6vUp/giphy.gif)
 
 > “This isn’t just a project — it’s a **financial interface blueprint** for the next era of AI-driven asset management.”  
-> — _Jarron Sorrell, Visionary Dev & Future Tech Exec_
+> — *Jarron Sorrell, Visionary Dev & Future Tech Exec*
 
 ---
 
