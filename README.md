@@ -76,6 +76,6 @@ Claude 3.5 + GPT-4 were used for:
 
 ## 📫 Let’s Connect
 
-💼 [LinkedIn]([https://www.linkedin.com/in/jarron-sorrell-045b39b8/])  
+💼 [LinkedIn](https://www.linkedin.com/in/jarron-sorrell-045b39b8/)  
 🧠 Interested in AI x Web3 collaboration? DM me.  
 📨 Looking to hire? I’m actively building and ready for the next challenge.
