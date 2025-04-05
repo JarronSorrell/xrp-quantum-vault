@@ -1,25 +1,80 @@
-# XRP Quantum Vault 🧠💰
+# 🚀 XRP Quantum Vault  
+**Institutional-Grade AI Wallet Dashboard**  
+[![Live Site](https://img.shields.io/badge/Live-Demo-00cc99?style=for-the-badge&logo=netlify)](https://serene-centaur-50221e.netlify.app)
+[![Vercel Badge](https://vercelbadge.vercel.app/api/JarronSorrell/XRP-Quantum-Vault)](https://serene-centaur-50221e.netlify.app)
 
-> AI-operated, multi-asset XRP wallet strategy powered by OpenAI Operator and secured with Ledger Nano X.
+![Header](https://media.giphy.com/media/l41lYCDMXm5B1mZK0/giphy.gif)
 
-## 🌐 Overview
-XRP Quantum Vault is an intelligent trading and wallet management interface for managing XRP-based portfolios, with real-time updates, AI-powered strategies, and multi-asset DeFi integration. Built for labs, financial teams, and autonomous AI agents.
+> “This isn’t just a project — it’s a **financial interface blueprint** for the next era of AI-driven asset management.”  
+> — _Jarron Sorrell, Visionary Dev & Future Tech Exec_
 
-## 🔧 Tech Stack
-- Python + Gradio (UI)
-- Flask (optional backend)
-- OpenAI Operator integration
-- Ledger Nano X (security layer)
+---
 
-## 📊 Live Features
-- Portfolio viewer
-- Real-time AI performance tracking
-- Tokenized asset strategies (e.g., GOOGL, MSFT, ADA, HBAR)
-- Arbitrage across XRPL and DeFi chains
+## 🧠 About the Project
 
-## 🚀 Getting Started
-```bash
-git clone https://github.com/JarronSorrell/xrp-quantum-vault.git
-cd xrp-quantum-vault
-pip install -r requirements.txt
-python xrp-wallet-interface.py
+**XRP Quantum Vault** is a high-performance, institutional-grade web application designed to simulate the **future of AI-enhanced asset management**.  
+Built with bleeding-edge tools like **React**, **Vite**, **Tailwind CSS**, and **TypeScript**, and co-developed with **Claude 3.5** + **GPT-4**, this dashboard offers a polished, real-time portfolio experience.
+
+---
+
+## 🎯 Key Features
+
+| Feature | Description |
+|--------|-------------|
+| 📈 **Live Streaming Portfolio** | Portfolio balance auto-updates every 50ms, simulating real-time revenue |
+| 🤖 **AI Agent Activity Feed** | Simulates trade history from AI assistants like OpenAI Operator & CryptoHopper |
+| 📊 **Dynamic Charts** | Interactive line + bar charts powered by `Recharts` for allocation + returns |
+| 🛡 **Ledger Branding** | Institutional UI secured by “Ledger Nano X” |
+| 🌐 **Token + Equity Assets** | Tracks both crypto (XRP, ETH) & tokenized stocks (AAPL, MSFT) |
+| 🧰 **Modular Architecture** | Built for rapid iteration and scalable component injection |
+
+---
+
+## 🖼️ UI Preview
+
+![Portfolio Preview](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTN1YXFiYzhqaXphNHFyaXBuYndvN3Z3ZG1iZjl6cHl4Z21hZG42bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3JzNV8NtFhR1XpNW/giphy.gif)
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- ⚛️ **React 18 + Vite**
+- 🎨 **Tailwind CSS 3.3**
+- 🧪 **TypeScript / JSX**
+- 📈 **Recharts**
+- 🧠 **Claude 3.5 + GPT-4**
+- 🌍 **Deployed on Netlify**
+- ⚡ **Prototyped with Bolt.new**
+
+---
+
+## 🧠 AI Co-Pilot Contributions
+
+Claude 3.5 + GPT-4 were used for:
+- Component generation
+- Live data simulation logic
+- Error handling + debug automation
+- UI scaffolding in Bolt.new
+
+> “I didn’t just build this app. I engineered it in collaboration with AI.”
+
+---
+
+## 🌟 Why This Project Matters
+
+> ✅ Demonstrates mastery of modern frontend tools  
+> ✅ Shows AI-powered development workflows  
+> ✅ Proves I can ship fast, iterate smart, and polish at scale
+
+---
+
+## 🚀 Try It Live  
+👉 [https://serene-centaur-50221e.netlify.app](https://serene-centaur-50221e.netlify.app)
+
+---
+
+## 📫 Let’s Connect
+
+💼 [LinkedIn](https://linkedin.com/in/jarronsorrell)  
+🧠 Interested in AI x Web3 collaboration? DM me.  
+📨 Looking to hire? I’m actively building and ready for the next challenge.
