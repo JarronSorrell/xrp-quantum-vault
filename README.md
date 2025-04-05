@@ -4,7 +4,7 @@
 [![LIVE](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://serene-centaur-50221e.netlify.app)  
 [![Vercel](https://img.shields.io/badge/vercel-failed-red?style=flat-square)](https://vercel.com)
 
-![XRP Quantum Vault UI Preview](https://media.giphy.com/media/Fxkx2ZxRNGolKZ6vUp/giphy.gif)
+![XRP Quantum Vault UI Preview]([https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif])
 
 > “This isn’t just a project — it’s a **financial interface blueprint** for the next era of AI-driven asset management.”  
 > — *Jarron Sorrell, Visionary Dev & Future Tech Exec*
